@@ -30,7 +30,7 @@ Up until now we have been focused on queries that scan only one table, the LINEO
     sqlplus ssb/Ora_DB4U@localhost:1521/orclpdb
     set pages 9999
     set lines 100
-    <copy>    
+    </copy>    
     ````
 
     ![](images/num1.png " ") 

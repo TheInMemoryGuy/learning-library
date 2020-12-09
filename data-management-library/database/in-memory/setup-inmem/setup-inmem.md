@@ -95,6 +95,7 @@ This lab assumes you have completed the following labs:
     ````
     <copy>
     alter system set inmemory_size=2G scope=spfile;
+    alter system set db_keep_cache_size=2G scope=spfile;
     shutdown immediate;
     startup;
     </copy>
